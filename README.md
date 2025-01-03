@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for a common issue in React Router Dom v6: the catch-all route (`/*`) not working as expected. The bug is demonstrated in `bug.js`, and the solution is provided in `bugSolution.js`. The issue arises when the catch-all route is not correctly handling unmatched routes, often resulting in unexpected behavior or rendering issues.
